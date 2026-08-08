@@ -32,6 +32,12 @@ The initial implementation focuses on the **Nigerian real estate market**, while
 
 ---
 
+# 🖥️ Dashboard Preview
+
+![EstatePulse Intelligence Dashboard](screenshots/dashboard.png)
+
+---
+
 # 🎯 Project Objectives
 
 EstatePulse Intelligence was built around four primary objectives:
