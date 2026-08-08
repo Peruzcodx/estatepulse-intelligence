@@ -1,0 +1,155 @@
+
+ESTATEPULSE MARKET INTELLIGENCE REPORT
+======================================
+
+Generated:
+06 August 2026
+
+
+Total Properties:
+35
+
+
+Average Property Price:
+₦194,902,857
+
+
+Highest Property Price:
+₦780,000,000
+
+
+Lowest Property Price:
+₦2,400,000
+
+
+Most Common Property Type:
+Apartment
+
+
+Top Locations:
+Ikate Elegushi, Lekki: 2 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Freedom Way, Lekki Phase 1: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Badore Road, Ajah: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Thomas Estate, Ajah: 1 properties
+Ikate Elegushi, Lekki: 2 properties
+Freedom Way, Lekki Phase 1: 1 properties
+12 Admiralty Way, Lekki Phase 1: 1 properties
+Admiralty Way, Lekki Phase 1: 1 properties
+Oniru Estate, Victoria Island: 1 properties
+Ligali Ayorinde, Victoria Island: 1 properties
+1004 Estate Road, Victoria Island: 1 properties
+Badore Road, Ajah: 1 properties
+Lekki County Homes, Ikota: 1 properties
+Thomas Estate, Ajah: 1 properties
+Available: 30
+N/A: 4
+Sold: 1
+
+
+Average Price By Property Type:
+Villa: ₦518,750,000
+Rare waterfront parcel with full title, suitable for a private residence or boutique block.: ₦420,000,000
+Commercial Building: ₦370,000,000
+Office Space: ₦162,000,000
+Duplex: ₦151,125,000
+Prime commercial plot with approved building plan for a mixed-use development.: ₦140,000,000
+House: ₦122,000,000
+Fully dry, fenced and gated plot with governor consent and instant allocation.: ₦95,000,000
+Apartment: ₦80,066,667
+Titled residential plot within a fast-developing district, ideal for a family build.: ₦38,000,000
