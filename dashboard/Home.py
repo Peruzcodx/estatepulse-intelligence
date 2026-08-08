@@ -1,9 +1,22 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
-import os 
+import os
+import sys
 from datetime import datetime
 
+# =====================================================
+# PROJECT ROOT
+# =====================================================
+
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
+
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
 from analysis.market_analysis import (
     get_properties,
     analyze_prices,
