@@ -48,7 +48,7 @@ def show_dashboard(selected_location):
     nigeria_time = datetime.now(ZoneInfo("Africa/Lagos"))
 
     st.caption(
-        f"🕒 Last Updated: {nigeria_time.strftime('%d %B %Y, %I:%M %p')}"
+        f"🕒 Last Updated: {nigeria_time.strftime('%d %B %Y, %I:%M %p')} (WAT)"
     )
 
 
