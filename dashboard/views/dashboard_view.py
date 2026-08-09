@@ -2,6 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from analysis.market_analysis import (
     get_properties,
     analyze_prices,
@@ -44,9 +45,10 @@ def show_dashboard(selected_location):
     st.caption(
         "Nigeria Real Estate Market Analytics Platform"
     )
+    nigeria_time = datetime.now(ZoneInfo("Africa/Lagos"))
 
     st.caption(
-        f"🕒 Last Updated: {datetime.now().strftime('%d %B %Y, %I:%M %p')}"
+        f"🕒 Last Updated: {nigeria_time.strftime('%d %B %Y, %I:%M %p')}"
     )
 
 
